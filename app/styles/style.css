@@ -1,0 +1,19 @@
+#app {
+    padding-top: 50px;
+    background-color: whitesmoke;
+}
+
+.main {
+    padding: 20px;
+    float: left;
+    position: relative;
+    background-color: whitesmoke;
+}
+
+.row {
+    height: 100vh;
+}
+
+.btn {
+    margin-left: 5px;
+}
